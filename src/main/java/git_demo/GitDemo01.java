@@ -8,5 +8,6 @@ public class GitDemo01 {
         System.out.println("fifth version");
         System.out.println("hot-fix-1");
         System.out.println("hot-fix-2");
+        System.out.println("hot-fix-3");
     }
 }
